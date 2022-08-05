@@ -1,4 +1,4 @@
-﻿using Curso_vendas.Models;
+﻿using Curso_vendas.Models.ViewModel;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
